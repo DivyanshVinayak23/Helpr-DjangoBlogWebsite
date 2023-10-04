@@ -24,7 +24,7 @@ To run this project locally, follow these steps:
 
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-username/WhoWhispers-DjangoBlogWebsite.git
+   git clone https://github.com/DivyanshVinayak23/WhoWhispers-DjangoBlogWebsite.git
 2. cd mySite
 3. pip install -r requirements.txt
 4. python manage.py migrate
