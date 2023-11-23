@@ -1,4 +1,4 @@
-# WhoWhispers-DjangoBlogWebsite 👤📝
+# Helpr-DjangoBlogWebsite 👤📝
 
 Welcome to the WhoWhispers-DjangoBlogWebsite project! This is a personal blog website with CRUD (Create, Read, Update, Delete) functionality and database integration, developed using Django.
 
@@ -10,6 +10,7 @@ Welcome to the WhoWhispers-DjangoBlogWebsite project! This is a personal blog we
 - User-friendly admin panel for managing blog content.
 - Database integration for storing and retrieving blog posts.
 - Responsive design for seamless browsing on various devices.
+- Create Study Rooms
 
 ## Technologies Used 💻
 
