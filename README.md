@@ -1,6 +1,6 @@
 # Helpr-DjangoBlogWebsite 👤📝
 
-Welcome to the WhoWhispers-DjangoBlogWebsite project! This is a personal blog website with CRUD (Create, Read, Update, Delete) functionality and database integration, developed using Django.
+Welcome to the Helpr-DjangoBlogWebsite project! This is a personal blog website with CRUD (Create, Read, Update, Delete) functionality and database integration, developed using Django.
 
 ## Features 🚀
 
@@ -48,4 +48,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgements 👏
 Thanks to the Django community for providing an excellent web framework.
-Happy Blogging! 📖✍️
